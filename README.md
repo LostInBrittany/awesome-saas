@@ -69,6 +69,7 @@
 - [Fly.io](https://fly.io/) – Global container hosting ideal for latency-critical SaaS.
 - [Render](https://render.com/) – Full-stack hosting with cron jobs, functions, and databases.
 - [Heroku](https://www.heroku.com/) – Platform for quickly deploying web and worker services without infrastructure management.
+- [Clever Cloud](https://clever.cloud) – European Platform as a Service with managed databases, and object storage.
 
 ## APIs & Integrations
 
